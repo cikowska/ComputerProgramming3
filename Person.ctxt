@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Person
+comment0.text=\r\n\ 13.\tDefine\ a\ class\ Person\ for\ person\u2019s\ record.\ The\ class\ should\ contain\ the\ attributes\:\ name,\ weight\ (kg)\ and\ height\ (cm).\r\n\ Add\ constructors\:\r\na.\tPerson(name)\r\nb.\tPerson(name,weight,height)\r\nThen\ add\ methods\ that\ represents\ the\ object's\ behaviors\:\r\nc.\tsetWeightAndHeight(weight,height)\r\nd.\tcalculateBMI()\ \u2013\ calculates\ Body\ Mass\ Index\ \r\ne.\tdisplayRecord()\ \u2013\ displays\ full\ info\ (name,\ weight,\ height,\ and\ BMI)\r\nThe\ correct\ BMI\ value\ is\ 18.5\ to\ 24.9.\ When\ displaying\ a\ person\u2019s\ record,\ if\ the\ BMI\ is\ too\ low,\ display\ the\ message\:\ "BMI\ too\ low".\r\n\ When\ the\ index\ is\ too\ high,\ display\ the\ message\:\ "BMI\ too\ high".\ Write\ a\ program,\ create\ three\ persons\ and\ display\ their\ records.\r\n\r\n
+comment1.params=name
+comment1.target=Person(java.lang.String)
+comment2.params=name\ weight\ height
+comment2.target=Person(java.lang.String,\ float,\ float)
+comment3.params=weight\ height
+comment3.target=void\ setWeightAndHeight(float,\ float)
+comment4.params=
+comment4.target=float\ calculateBMI()
+comment5.params=
+comment5.target=void\ displayRecord()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

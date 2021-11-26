@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Motto
+comment0.text=\r\n\ 9.\tDefine\ a\ Motto\ class.\ Then,\ create\ a\ program\ that\ displays\ the\r\n\ following\ text\:\ "Do\ what\ you\ love".\r\n\ Put\ the\ method\ below\ in\ the\ defined\ class.\u0000\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

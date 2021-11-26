@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=CinemaTicket
+comment0.text=\r\n\ 7.\tDefine\ a\ class\ CinemaTicket\ to\ describe\ cinema\ tickets.\r\n\ The\ ticket\ attributes\ are\:\ cinema\ name,\ film\ title,\ row,\ seat,\ and\ price.\r\n\ Since\ the\ name\ of\ cinema\ is\ the\ same\ for\ all\ tickets,\ use\ a\ static\ field.\r\n\ Then\ define\ a\ method\ to\ display\ ticket\ data.\r\n\ Try\ to\ create\ two\ tickets\ and\ display\ ticket\ details.\u0000\r\n\ \r\n\ 12.\tModify\ the\ class\ describing\ cinema\ tickets.\ Add\ a\ constructor\ that\ creates\ a\ ticket\ for\ the\ specified\ movie,\r\n\ with\ row\ and\ seat\ numbers.\ Assume\ that\ in\ the\ first\ two\ rows\ the\ ticket\ price\ is\ PLN\ 10,\ and\ in\ the\ remaining\ rows,\ PLN\ 25.\r\n\ Then\ write\ a\ program\ that,\ in\ the\ Morning\ Star\ Cinema,\ creates\ two\ tickets\ for\ the\ movie\ \u201CGladiator\u201D,\r\n\ the\ first\ one\ is\ in\ row\ 2\ and\ the\ second\ one\ in\ row\ 7.\r\n\ Print\ the\ created\ tickets.\u0000\r\n
+comment1.params=filmTitle\ rowNumber\ seatNumber
+comment1.target=CinemaTicket(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=CinemaTicket()
+comment3.params=
+comment3.target=void\ displayTicket()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

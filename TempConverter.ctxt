@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=TempConverter
+comment0.text=14.\tCreate\ a\ library\ of\ methods\ for\ converting\ temperatures\ between\ Celsius,\ Kelvin,\ and\ Fahrenheit.\r\n\ You\ can\ name\ the\ methods\ e.g.\ CelsiusToKelvin(),\ KelvinToCelsius(),\ ect.\ Then\ create\ a\ program\ that\ calculates\r\n\ and\ displays\ the\ temperature\:\r\na.\t25\ degrees\ Celsius\ in\ Kelvin\ and\ Fahrenheit\r\nb.\t100\ degrees\ Fahrenheit\ in\ Kelvin\ and\ Celsius\r\nc.\t0\ degrees\ Kelvin\ in\ Celsius\ and\ Fahrenheit\r\n\r\n
+comment1.params=degree
+comment1.target=float\ celciusToKelvin(float)
+comment2.params=
+comment2.target=float\ celciusToFarenheit()
+comment3.params=degree
+comment3.target=float\ farenheitToCelsius(float)
+comment4.params=degree
+comment4.target=float\ kelvintoCelsius(float)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

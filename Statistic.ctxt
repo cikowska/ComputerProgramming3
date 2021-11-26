@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Statistic
+comment0.text=15.\tCreate\ a\ library\ of\ methods\ for\ the\ calculation\ of\ basic\ statistics\:\r\na.\tNumber\ of\ items\ within\ the\ specified\ range\ <x,y>\r\nb.\tSum\ of\ numbers\ in\ the\ given\ range\ \ <x,y>\r\nc.\tArithmetic\ mean\ of\ the\ numbers\ in\ the\ given\ range\ \ <x,y>\r\nThen\ create\ a\ program\ that\ calculates\ and\ displays\ the\ basic\ statistics\ for\ integers\ in\ the\ range\ <5,10>\r\n\r\n
+comment1.params=x\ y
+comment1.target=int\ numberOfItems(int,\ int)
+comment2.params=x\ y
+comment2.target=int\ sumOfNumber(int,\ int)
+numComments=3
