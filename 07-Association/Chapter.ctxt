@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Chapter
+comment0.text=\r\n\ 11.\tAdd\ a\ Chapter\ class\ to\ the\ diagram\ that\ you\ have\ created,\ describing\ the\ chapter\ in\ a\ book\r\n\ (chapter\ title,\ number\ of\ pages,\ starting\ page\ number).\ Assume\ that\ a\ book\ can\ contain\ any\ number\ of\ chapters.\r\n\ What\ is\ the\ relationship\ between\ the\ book\ and\ chapters?\ Can\ a\ chapter\ exist\ without\ a\ book?\ Then\ modify\ the\ program\ for\r\n\ operating\ the\ bookshelf.\u0000\r\n
+comment1.params=chapTitle\ numberOfPages\ startNumber
+comment1.target=Chapter(java.lang.String,\ int,\ int)
+comment2.params=chapTitle
+comment2.target=void\ setChapTitle(java.lang.String)
+comment3.params=numberOfPages
+comment3.target=void\ setNumberOfPages(int)
+comment4.params=startNumber
+comment4.target=void\ setStartNumber(int)
+comment5.params=
+comment5.target=java.lang.String\ getChapTitle()
+comment6.params=
+comment6.target=int\ getNumberOfPages()
+comment7.params=
+comment7.target=int\ getStartNumber()
+numComments=8

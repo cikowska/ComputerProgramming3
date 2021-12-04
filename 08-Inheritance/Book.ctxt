@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Book
+comment0.text=6.\tCreate\ a\ project\ where\ you\ define\ a\ Book\ class\ that\ describes\ books.\ Add\ book\ attributes\:\ title\ and\ author.\r\n\ Create\ a\ constructor\ where\ you\ assign\ book\ attribute\ values.\ Add\ accessor\ and\ mutator\ methods\ for\ all\ book\ attributes.\r\n\ Add\ also\ a\ display()\ method\ to\ display\ information\ about\ the\ book.\ Then\ write\ a\ program\ that\ creates\ and\ displays\ two\ books.\u0000\r\n
+comment1.params=title\ author
+comment1.target=Book(java.lang.String,\ java.lang.String)
+comment2.params=title
+comment2.target=void\ setTitle(java.lang.String)
+comment3.params=author
+comment3.target=void\ setAuthor(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getTitle()
+comment5.params=
+comment5.target=java.lang.String\ getAuthor()
+comment6.params=
+comment6.target=void\ display()
+numComments=7

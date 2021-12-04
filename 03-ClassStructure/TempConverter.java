@@ -1,6 +1,8 @@
 
-/*14.	Create a library of methods for converting temperatures between Celsius, Kelvin, and Fahrenheit.
- * You can name the methods e.g. CelsiusToKelvin(), KelvinToCelsius(), ect. Then create a program that calculates
+/*14.	Create a library of methods for converting temperatures
+ * between Celsius, Kelvin, and Fahrenheit.
+ * You can name the methods e.g. CelsiusToKelvin(), KelvinToCelsius(), ect.
+ * Then create a program that calculates
  * and displays the temperature:
 a.	25 degrees Celsius in Kelvin and Fahrenheit
 b.	100 degrees Fahrenheit in Kelvin and Celsius
@@ -15,7 +17,7 @@ float degree;
         return kelvin;
     }
     
-    public float celciusToFarenheit(){
+    public float celciusToFarenheit(float degree){
         float farenheith = 32+9/5*this.degree;
         return farenheith;
     }
@@ -31,6 +33,6 @@ float degree;
     }
     
     public void main(String[] args) {
-        celciusToFarenheit();
+        celciusToFarenheit(25);
     }
    }

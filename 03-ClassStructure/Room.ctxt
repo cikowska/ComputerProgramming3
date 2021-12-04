@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Room
+comment0.text=22.\tDefine\ a\ class\ Room\ that\ represents\ a\ hotel\ room.\ The\ class\ should\ contain\ the\ attributes\:\ number,\ beds,\ occupied,\ and\r\n\ guestName.\ Add\ constructors\:\ Room(number)\ (creates\ a\ room\ with\ two\ beds)\ and\ Room(number,beds).\ Next,\ define\ methods\ for\r\n\ room\ manipulation\:\ checkin(guestName),\ checkout(),\ isOccupied(),\ and\ displayStatus().\ Then\ write\ a\ program\ in\ which\ create\r\n\ three\ rooms\ with\ two\ beds,\ two\ rooms\ with\ three\ beds\ and\ one\ room\ with\ one\ bed.\ Store\ all\ room\ objects\ in\ an\ array\:\r\nRoom[]\ rooms\ \=\ new\ Room[6];\r\nThen\ follow\ the\ steps\ below\:\r\na.\tDisplay\ status\ of\ a\ single\ room\ (room\ number,\ number\ of\ beds,\ occupied,\ guest\ name).\ Display\ data\ in\ a\ single\ row.\r\nb.\tDisplay\ a\ report\ with\ a\ list\ of\ rooms\ (room\ number,\ number\ of\ beds,\ occupied,\ guest\ name)\r\nc.\tDisplay\ a\ report\ with\ a\ list\ of\ rooms,\ limited\ to\ rooms\ with\ the\ specified\ number\ of\ beds\r\nd.\tDisplay\ a\ report\ on\ how\ many\ rooms\ are\ vacant\ and\ how\ many\ are\ occupied\r\ne.\tDisplay\ a\ report\ on\ how\ many\ vacant\ beds\ are\ available\r\nCreate\ a\ separate\ static\ method\ for\ each\ report.\ Pass\ a\ list\ of\ rooms\ (an\ array)\ to\ the\ defined\ static\ methods.\r\n\r\n23.\tModify\ the\ Room\ class.\ Define\ toString()\ method\ that\ returns\ information\ about\ the\ room\ status.\ Replace\ the\r\ndisplayStatus()method\ with\ the\ defined\ toString()\ method.\ Tip\:\ find\ out\ in\ the\ manual\ how\ to\ define\ and\ use\ the\ toString()\r\nmethod.\u0000\r\n
+comment1.params=number
+comment1.target=Room(int)
+comment10.params=rooms
+comment10.target=void\ displayVacantBeds(Room[])
+comment11.params=args
+comment11.target=void\ main(java.lang.String[])
+comment11.text=Then\ follow\ the\ steps\ below\:\r\na.\tDisplay\ status\ of\ a\ single\ room\ (room\ number,\ number\ of\ beds,\ occupied,\ guest\ name).\ Display\ data\ in\ a\ single\ row.\r\nb.\tDisplay\ a\ report\ with\ a\ list\ of\ rooms\ (room\ number,\ number\ of\ beds,\ occupied,\ guest\ name)\r\nc.\tDisplay\ a\ report\ with\ a\ list\ of\ rooms,\ limited\ to\ rooms\ with\ the\ specified\ number\ of\ beds\r\nd.\tDisplay\ a\ report\ on\ how\ many\ rooms\ are\ vacant\ and\ how\ many\ are\ occupied\r\ne.\tDisplay\ a\ report\ on\ how\ many\ vacant\ beds\ are\ available\r\nCreate\ a\ separate\ static\ method\ for\ each\ report.\ Pass\ a\ list\ of\ rooms\ (an\ array)\ to\ the\ defined\ static\ methods.
+comment2.params=number\ beds
+comment2.target=Room(int,\ int)
+comment3.params=name
+comment3.target=void\ checkin(java.lang.String)
+comment4.params=
+comment4.target=void\ checkout()
+comment5.params=
+comment5.target=boolean\ isOccupied()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=rooms
+comment7.target=void\ displayReport(Room[])
+comment8.params=rooms\ beds
+comment8.target=void\ displayReport(Room[],\ int)
+comment9.params=rooms
+comment9.target=void\ displayVacantReport(Room[])
+numComments=12

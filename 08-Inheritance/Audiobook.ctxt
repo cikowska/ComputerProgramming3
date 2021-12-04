@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Audiobook
+comment0.text=\r\n\ 8.\tAdd\ an\ Audiobook\ definition\ to\ the\ project\ that\ derives\ from\ the\ Book\ class\r\n\ (inherits\ the\ Book\ class's\ attributes\ and\ methods).\ Add\ the\ following\ attributes\ in\ the\ class\:\ minutes\ and\ seconds,\r\n\ which\ define\ the\ duration\ of\ the\ audiobook.\ Create\ a\ constructor\ where\ you\ assign\ audiobook\ attribute\ values\r\n\ (title,\ author,\ and\ audiobook\ duration).\ Add\ accessor\ and\ mutator\ methods\ for\ all\ the\ audiobook\ attributes.\r\n\ Also\ add\ a\ display()\ method\ to\ display\ information\ about\ the\ audiobook.\ Then\ write\ a\ program\ that\ creates\ and\ displays\r\n\ one\ book\ and\ two\ audiobooks.\u0000\r\n
+comment1.params=title\ author\ minutes\ seconds
+comment1.target=Audiobook(java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=minutes
+comment2.target=void\ setMinutes(int)
+comment3.params=seconds
+comment3.target=void\ setSeconds(int)
+comment4.params=
+comment4.target=int\ getMinutes()
+comment5.params=
+comment5.target=int\ getSeconds()
+comment6.params=
+comment6.target=void\ display()
+numComments=7

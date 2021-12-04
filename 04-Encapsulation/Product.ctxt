@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Product
+comment0.text=11.\tThe\ Product\ class\ describes\ food\ products\ using\ two\ attributes\:\ the\ product\ name\ and\ whether\ the\ product\ is\ vegetarian.\r\n\ Define\ the\ class,\ its\ attributes,\ and\ getter\ and\ setter\ methods\ for\ all\ attributes.\ Then\ create\ a\ product,\ set\ attributes'\r\n\ values\ and\ display\ product\ information.\u0000\r\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=
+comment2.target=boolean\ getVege()
+comment3.params=name
+comment3.target=void\ setName(java.lang.String)
+comment4.params=vege
+comment4.target=void\ setVege(boolean)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

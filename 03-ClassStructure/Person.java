@@ -59,5 +59,8 @@ public class Person
         
         Person person2 = new Person("Magda",56.4f, 165.0f);
         person2.displayRecord();
+        
+        Person person3 = new Person("Adam",56.4f, 180.0f);
+        person3.displayRecord();
     }
 }

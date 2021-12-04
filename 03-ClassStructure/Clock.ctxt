@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Clock
+comment0.text=20.\tDefine\ a\ class\ Clock\ that\ represents\ a\ digital\ clock.\r\n\ It\ has\ two\ attributes\:\ hour\ and\ minute.\ The\ hour\ value\ ranges\ from\ 0\ to\ 23.\r\n\ The\ minute\ value\ ranges\ from\ 0\ to\ 59.\ Next,\ define\ the\ following\r\n\ constructors\:\r\na.\tClock()\ \u2013\ initialises\ clock\ to\ 00\:00\r\nb.\tClock(hour,minute)\ \u2013\ initialises\ clock\ to\ hour\:minute\r\nThen,\ define\ methods\:\r\nc.\tsetClock(hour,minute)\r\nd.\tsetClock()\ -\ reset\ clock\ to\ 00\:00\r\ne.\tdisplayTime()\r\nf.\taddOneMinute()\r\nAfter\ that,\ write\ a\ program\ that\:\r\ng.\tcreates\ a\ clock\ with\ starting\ time\ 12\:47\r\nh.\tdisplays\ time\r\ni.\tsets\ a\ clock\ to\ 18\:14\r\nj.\tdisplays\ time\r\nk.\tsets\ a\ clock\ to\ 09\:03\r\nl.\tdisplays\ time\r\nm.\tsets\ a\ clock\ to\ 23\:58\r\nn.\tdisplays\ time\r\no.\tadds\ one\ minute\r\np.\tdisplays\ time\r\nq.\tadds\ one\ minute\r\nr.\tdisplays\ time\r\n\r\n21.\tAdd\ an\ alarm\ function\ to\ the\ clock.\ Complete\ the\ class\ definition\ with\ the\ attributes\:\ alarmHour,\ alarmMinute.\r\nAdd\ methods\:\ setAlarm(hour,\ minute)\ and\ runAlarm(),\ which\ displays\ the\ "beep-beep-beep-beep\ \!\!"\ alarm\ sound.\ Turn\ on\ the\r\nalarm\ when\ the\ alarm\ time\ is\ the\ same\ as\ the\ clock\ time(compare\ times\ in\ the\ addOneMinute()\ method).\u0000\r\n\r\n
+comment1.params=
+comment1.target=Clock()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Clock\r\n
+comment2.params=hour\ minute
+comment2.target=Clock(int,\ int)
+comment3.params=hour\ minute
+comment3.target=void\ setClock(int,\ int)
+comment4.params=
+comment4.target=void\ setClock()
+comment5.params=
+comment5.target=void\ displayTime()
+comment6.params=
+comment6.target=void\ addOneMinute()
+comment7.params=hour\ minute
+comment7.target=void\ setAlarm(int,\ int)
+comment8.params=
+comment8.target=void\ runAlarm()
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10

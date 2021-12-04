@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=InternetDevice
+comment0.text=16.\tThere\ are\ many\ devices\ that\ can\ use\ the\ Internet\:\ a\ personal\ computer,\r\n\ laptop,\ tablet,\ smartphone,\ internet\ radio\ or\ TV.\r\n\ Define\ an\ InternetDevice\ class\ to\ describe\ such\ devices.\r\n\ The\ class\ should\ contain\ attributes\:\ name\ (device\ name),\ connected\r\n\ (whether\ a\ device\ is\ connected\ to\ the\ Internet),\ and\ connectedDevices\r\n\ (the\ number\ of\ connected\ devices\ -\ static\ field).\ Add\ a\ constructor\r\n\ InternetDevice(name)\ and\ methods\ for\ device\ manipulation\:\ connect(),\r\n\ disconnect(),\ isConnected(),\ displayStatus(),\ displayConnections()\r\n\ (static\ method).\ Then\ write\ a\ program\ that\ creates\ five\ different\r\n\ internet\ devices,\ three\ of\ which\ are\ connected\ to\ the\ Internet.\r\n\ Display\ the\ status\ of\ each\ device\ and\ information\ about\ the\ number\ of\r\n\ devices\ connected\ to\ the\ Internet.\u0000\r\n
+comment1.params=name
+comment1.target=InternetDevice(java.lang.String)
+comment2.params=
+comment2.target=void\ connect()
+comment3.params=
+comment3.target=void\ disconnect()
+comment4.params=
+comment4.target=boolean\ isConnected()
+comment5.params=
+comment5.target=void\ displayStatus()
+comment6.params=
+comment6.target=void\ displayConnections()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

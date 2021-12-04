@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Ebook
+comment0.text=7.\tAdd\ an\ Ebook\ class\ definition\ to\ your\ project\ that\ derives\ from\ the\ Book\ class\r\n(inherits\ the\ Book\ class\ attributes\ and\ methods).\ Add\ an\ attribute\:\ file\ name.\ Create\ a\ constructor\ where\ you\ assign\r\nthe\ ebook\ attribute\ values\ (title,\ author\ and\ file\ name).\ Add\ accessor\ and\ mutator\ methods\ for\ all\ ebook\ attributes.\r\nAlso\ add\ a\ display()\ method\ to\ display\ information\ about\ the\ ebook.\ Then\ write\ a\ program\ that\ creates\ and\ displays\r\none\ book\ and\ two\ e-books.\u0000\r\n
+comment1.params=title\ author\ fileName
+comment1.target=Ebook(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=fileName
+comment2.target=void\ setFileName(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getFileName()
+comment4.params=
+comment4.target=void\ display()
+numComments=5
